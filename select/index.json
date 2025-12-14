@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "リリリピート",
+  "base_artist": "frederic",
+  "createdAt": "2025-12-14T11:23:37.394434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リリリピート",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/01_リリリピート_frederic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リリリピート - Rererepeat",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/02_リリリピート_-_Rererepeat_frederic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リリリピート",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/03_リリリピート_frederic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リリリピート",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_リリリピート_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "リリリピート",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_02_リリリピート_フレデリック.txt"
+    }
+  ]
+}
